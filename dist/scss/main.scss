@@ -1,10 +1,13 @@
 @import "./utils/variables";
 @import "./utils/mixins";
-@import"./utils/functions";
+@import "./utils/functions";
 @import "./base/menu";
 @import "./base/body";
 @import "./base/formain";
+@import "./base/responsive";
 @import "./layout/header";
 @import "./layout/icons";
 @import "./layout/footer";
 @import "./pages/home";
+@import "./pages/about";
+@import "./pages/contact";
